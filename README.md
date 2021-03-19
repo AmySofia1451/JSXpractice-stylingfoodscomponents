@@ -1,2 +1,2 @@
-# JSXpractice-stylingfoodscomponents
+# JSXpractice-Styling
 Created with CodeSandbox
